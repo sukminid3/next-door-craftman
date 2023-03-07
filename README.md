@@ -2,7 +2,7 @@
 
 next-door-craftman is a web/mobile application that a person can share his/her craftmanship with neighbors, just like Airbnb shares individual's rooms and Uber shares individual's cars. Now it is time so share your own skills with neighbors. It can be anything. Racket stringing? Removing snow? Playing Guitar? Cleaning? Pet sitting? you name it!
 
-This is a very first step for great long voyage.
+This is a very first step for great long voyage..
 
 ## Installation
 
